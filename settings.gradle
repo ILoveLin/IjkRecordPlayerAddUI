@@ -1,0 +1,6 @@
+include ':rtplibrary'
+include ':encoder'
+include ':rtmp'
+include ':rtsp'
+include ':app'
+rootProject.name = "myijkplayer"

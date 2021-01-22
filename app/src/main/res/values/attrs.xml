@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 设置栏 -->
+    <declare-styleable name="download">
+        <!-- 左边 -->
+        <attr name="download_download_line_color" format="color"/>
+        <attr name="download_download_bg_line_color" format="color"/>
+        <attr name="download_download_text_color" format="color" />
+        <attr name="download_download_line_width" format="dimension" />
+        <attr name="download_download_bg_line_width" format="dimension" />
+        <attr name="download_download_text_size" format="dimension" />
+
+    </declare-styleable>
+
+    <declare-styleable name="NurVideoView">
+        <attr name="video_view_height" format="dimension" />
+        <attr name="video_background_color" format="color" />
+        <attr name="remove_back_btn" format="boolean" />
+    </declare-styleable>
+
+</resources>
